@@ -30,4 +30,36 @@ Como parte do desafio, o código foi refatorado seguindo boas práticas, com a a
 
 ---
 
+## 🤖 O que foi usado nos projetos
+
+### Backend
+  - Node
+  - Express
+  - Javascript
+  - Cors
+
+### Frontend
+  - React
+  - Javascript
+
+
+### Como eu faço para executar o serviço do backend?
+
+```sh
+$ cd server
+$ npm install
+$ npm start
+```
+
+Feito isso o serviço de backend estará funcionando na porta :5555. 
+
+### Como eu faço para executar o serviço do frontend?
+
+```sh
+$ cd web
+$ npm install
+$ npm start
+```
+
+
 
